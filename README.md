@@ -1,2 +1,2 @@
 # Calc
-Reactで、電卓アプリ作成。
+React + TypeScriptで、電卓アプリを作成。

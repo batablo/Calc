@@ -1,0 +1,27 @@
+{
+  "window.zoomLevel": -1,
+  "editor.renderWhitespace": "all",
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "files.insertFinalNewline": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.colorCustomizations": {
+    "tab.activeModifiedBorder": "#ff2600",
+    "tab.inactiveModifiedBorder": "#ff2600",
+    "tab.unfocusedActiveModifiedBorder": "#ff2600",
+    "tab.unfocusedInactiveModifiedBorder": "#ff2600"
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.colorTheme": "Dracula",
+  "vsicons.dontShowNewVersionMessage": true,
+  "[sql]": {},
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.codeAction.disableRuleComment": {},
+  "eslint.nodePath": "/node_modules/eslint",
+  "eslint.packageManager": "yarn",
+  "eslint.alwaysShowStatus": true
+}
